@@ -69,4 +69,4 @@ Enter your move (1-9): 5
 \---
 
 \### Author
-Created by \*\[Vaibhav Sharma]\* as part of the \*\*CodSoft AI Internship – Task 2\*\*.
+Created by \*\[Shivam Sharma]\* as part of the \*\*CodSoft AI Internship – Task 2\*\*.
